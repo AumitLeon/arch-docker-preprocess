@@ -58,3 +58,5 @@ source data-preprocess/bin/activate
 ```
 
 Now, the environment has access to the arch preprocessing module. 
+
+The `execute.py` script will collect arguments, and then execute the proper functions from the preprocessing module in sequence.
