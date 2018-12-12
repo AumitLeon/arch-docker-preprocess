@@ -1,8 +1,8 @@
 ## ArchMLP Preprocess Container
 This container configuration hosts our preprocessing module: 
 
-https://pypi.org/project/data-preprocessing-arch/
-https://github.com/mecheverria96/archMLP-Preprocessing
+* https://pypi.org/project/data-preprocessing-arch/
+* https://github.com/mecheverria96/archMLP-Preprocessing
 
 
 ### Usage
