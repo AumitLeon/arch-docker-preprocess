@@ -1,0 +1,6 @@
+boto3
+numpy
+pandas
+scikit-learn
+data_preprocessing_arch
+
